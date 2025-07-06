@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Video Folders
+#  This directory is used to store videos related to ISFL computer vision projects.
+videos/
+#  The frames directory is used to store extracted frames from videos.
+frames/
